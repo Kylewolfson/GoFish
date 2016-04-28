@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CardTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-28T21:42:20" hostname="epicodus-31.local" time="0.001">
+<testsuite name="CardTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-28T22:13:34" hostname="epicodus-31.local" time="0.001">
   <properties/>
   <testcase name="card_initializesCorrectly_AceSpade" classname="CardTest" time="0.001"/>
   <testcase name="card_initializesCorrectly_true" classname="CardTest" time="0.0"/>

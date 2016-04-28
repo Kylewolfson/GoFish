@@ -13,7 +13,6 @@ public class Deck {
     for (String suit : SUITS) {
       for (String value : VALUES) {
         Card newCard = new Card(suit, value);
-        System.out.println(newCard.getCard());
         mCards.add(newCard);
       }
     }
